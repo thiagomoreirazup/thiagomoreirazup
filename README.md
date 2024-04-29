@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   Olá, Eu sou o Thiago Moreira  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
   </h1>
 
-- 💻 Atualmente trabalho como Analista de Qualidade (QA) Junior.
+- 💻 Atualmente trabalho como Analista de Qualidade (QA) Pleno.
 - 💼 Projetos no qual já trabalhei aqui na ZUP:
 
 - ELO HUB BENEFÍCIOS (1 ano estágio, 1 ano Junior)
 
-- Claro CSP (1 ano e 3 Meses)
+- Claro CSP (1 ano e 5 Meses)
 
 - Totalizando 3 anos e 3 meses de empresa.
 - 🚀 Apaixonado pela área da Tecnologia e sempre curioso em apreender coisas novas.
